@@ -3,7 +3,6 @@
 📌Atualmente sou estudante de Análise e Desenvolvimento de Sistemas apaixonado por programação, em busca de emprego e focado nos estudos e em projetos pessoais para meu portifólio.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-will-423233245/)
-
 ### Tecnologias que tenho experiência
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloWillCB&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
