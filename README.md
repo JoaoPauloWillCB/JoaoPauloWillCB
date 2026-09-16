@@ -38,18 +38,17 @@ Atualmente, trabalho principalmente com PHP e desenvolvimento web, buscando evol
 
 ---
 
-## 📊 Meu GitHub em números
+## 📊 Minha atividade no GitHub
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=JoaoPauloWillCB&show_icons=true&theme=dracula&hide_border=true"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloWillCB&layout=compact&theme=dracula&hide_border=true"
-    alt="Linguagens mais utilizadas"
-  />
+
+[![GitHub](https://img.shields.io/badge/GitHub-JoaoPauloWillCB-181717?style=for-the-badge&logo=github)](https://github.com/JoaoPauloWillCB)
+
 </div>
+
+Confira meus projetos e acompanhe minha evolução pelos repositórios e pelo histórico de contribuições do GitHub.
+
+[![Meus repositórios](https://img.shields.io/badge/Ver%20meus%20repositórios-2ea44f?style=for-the-badge&logo=github)](https://github.com/JoaoPauloWillCB?tab=repositories)
 
 ---
 
