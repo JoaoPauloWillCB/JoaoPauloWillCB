@@ -41,8 +41,14 @@ Atualmente, trabalho principalmente com PHP e desenvolvimento web, buscando evol
 ## 📊 Meu GitHub em números
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPauloWillCB&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloWillCB&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais utilizadas"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JoaoPauloWillCB&show_icons=true&theme=dracula&hide_border=true"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloWillCB&layout=compact&theme=dracula&hide_border=true"
+    alt="Linguagens mais utilizadas"
+  />
 </div>
 
 ---
